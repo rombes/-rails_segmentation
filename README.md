@@ -1,3 +1,1 @@
 # -rails_segmentation
-
-test
